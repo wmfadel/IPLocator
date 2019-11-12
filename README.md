@@ -1,10 +1,15 @@
 # ip_locator
 
 A new Flutter application.
+Flutter application that takes IPv4 address and gets details about its location,ISP etc...
+it also gets user ip address and shows it to user and uses flutter built in Clipboard manager
+
+<img src=https://github.com/wmfadel/IPLocator/blob/master/screenshots/Screenshot_1573574098.png width="320"/>       <img src=https://github.com/wmfadel/IPLocator/blob/master/screenshots/Screenshot_1573574112.png width="320"/>
+<img src=https://github.com/wmfadel/IPLocator/blob/master/screenshots/Screenshot_1573574122.png width="320"/>       <img src=https://github.com/wmfadel/IPLocator/blob/master/screenshots/Screenshot_1573574127.png width="320"/>
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+
 
 A few resources to get you started if this is your first Flutter project:
 
