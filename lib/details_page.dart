@@ -4,7 +4,7 @@ import 'package:ip_locator/data_provider.dart';
 import 'package:provider/provider.dart';
 
 class DetailsPage extends StatelessWidget {
-  static final String routeName = '/details';
+  static final String routeName = '/detailspage';
 
   @override
   Widget build(BuildContext context) {
